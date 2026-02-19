@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="Directory.Build.props" />
+    <File Path="Directory.Packages.props" />
+    <File Path="README.md" />
+  </Folder>
+  <Project Path="src/ChimneyWise.Core/ChimneyWise.Core.csproj" />
+  <Project Path="src/ChimneyWise.Domain/ChimneyWise.Domain.csproj" />
+  <Project Path="src/ChimneyWise.Infrastructure/ChimneyWise.Infrastructure.csproj" Id="71c2748b-48d4-430f-959a-ecb60fd54adc" />
+</Solution>
